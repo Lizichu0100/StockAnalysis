@@ -1,4 +1,7 @@
 # Stock Analysis (2023)
+![](./materials/thumbnail.jpg)
+
+*Nguồn ảnh: [towardsdatascience.com](https://towardsdatascience.com/in-12-minutes-stocks-analysis-with-pandas-and-scikit-learn-a8d8a7b50ee7)*
 
 Đây là project giữa kỳ nhóm 3 người môn "Nhập môn khoa học dữ liệu" - HCMUS. Trong project này, bọn mình sẽ nghiên cứu và phân tích dữ liệu chứng khoán bằng cách sử dụng PCA để lọc feature và tiện cho việc trực quan và sử dụng KMeans để tìm nhóm cổ phiếu có chung pattern.
 
