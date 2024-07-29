@@ -1,6 +1,6 @@
 # Stock Analysis (2023)
 
-Đây là project giữa kỳ nhóm 3 người môn "Nhập môn khoa học dữ liệu" - HCMUS. Trong project này, bọn mình sẽ nghiên cứu và phân tích dữ liệu chứng khoán bằng cách sử dụng PCA để lọc feature và tiện cho việc trực quan và KMeans để tìm nhóm cổ phiếu có chung pattern.
+Đây là project giữa kỳ nhóm 3 người môn "Nhập môn khoa học dữ liệu" - HCMUS. Trong project này, bọn mình sẽ nghiên cứu và phân tích dữ liệu chứng khoán bằng cách sử dụng PCA để lọc feature và tiện cho việc trực quan và sử dụng KMeans để tìm nhóm cổ phiếu có chung pattern.
 
 **Các bước bọn mình làm trên project này:**
 
