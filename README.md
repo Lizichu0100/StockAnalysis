@@ -4,7 +4,7 @@
 
 **Các bước bọn mình làm trên project này:**
 
-- Bước 1: Load dữ liệu gốc cho sẵn.
+- Bước 1: Load dữ liệu gốc cho sẵn (Dữ liệu ở đây là file pickle - .pkl)
 
 - Bước 2: Clean data (Xử lý dữ liệu thiếu, không hợp lệ,...).
 
@@ -16,4 +16,4 @@
 
 Chi tiết về project này các bạn xem trong file stock_analysis.ipynb nhé. Ngôn ngữ lập trình được sử dụng là python.
 
-Bọn mình có để raw data gốc bao gồm  trong thư mục raw_data. Các bạn có thể tải về và chạy thử, khuyến khích các bạn chạy code trên google colab.
+Bọn mình có để raw data gốc bao gồm df_merged.pkl trong thư mục raw_data. Các bạn có thể tải về và chạy thử, khuyến khích các bạn chạy code trên google colab.
