@@ -16,4 +16,4 @@
 
 Chi tiết về project này các bạn xem trong file stock_analysis.ipynb nhé. Ngôn ngữ lập trình được sử dụng là python.
 
-Trong thư mục raw_data, bọn mình có để đường link google drive dẫn đến data gốc df_merged.pkl. Các bạn có thể tải về và chạy thử, khuyến khích các bạn chạy code trên google colab.
+Đây là đường link google drive dẫn đến raw data gốc [df_merged.pkl](https://drive.google.com/file/d/1To0FuKhKyxT8iP6lxvw0T_Cm7znfDSBF/view). Các bạn có thể tải về và chạy thử, khuyến khích các bạn chạy code trên google colab.
